@@ -2,7 +2,7 @@
 title: "License"
 permalink: /license/
 nav_exclude: true
-published: true
+published: false
 ---
 
 ## Licensing
