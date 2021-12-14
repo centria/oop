@@ -1,7 +1,10 @@
 ---
-title: "Introduction"
-permalink: /
+title: "Part 1 - The beginning"
+permalink: /part1/
 nav_order: 1
+published: true
+has_children: true
+has_toc: true
 ---
 
 ## Introduction
